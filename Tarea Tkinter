@@ -1,0 +1,24 @@
+from tkinter import *
+
+Ventana = Tk()
+
+Ventana.geometry("450x200")
+
+Ventana.title("Bienvenido a mundo planta!")
+
+Ventana.config(bg = "pink")
+
+Etiqueta = Label(
+    Ventana,
+    text = 'Acá puedes encontrar toda clase de plantas y suplementos para tu negocio ',
+    bg = 'blue',
+    font='Times 15')
+Etiqueta.pack()
+
+
+def Ejercicio():
+  print('¿Qué está buscando?')
+
+Boton = tkinter.Button(Ventana, text = 'Hacer pedido', command = Ejercicio)
+Boton.pack() 
+Ventana.mainloop() 
