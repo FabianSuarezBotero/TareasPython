@@ -1,6 +1,6 @@
-from tkinter import *
+import tkinter
 
-Ventana = Tk()
+Ventana = tkinter.Tk()
 
 Ventana.geometry("450x200")
 
