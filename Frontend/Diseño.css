@@ -1,0 +1,56 @@
+body{
+    background-image:url(https://www.teknofilo.com/wp-content/uploads/2020/09/Logotipo-de-Apple.jpg);
+    background-size: 300px;
+}
+
+#Titulo{
+    text-align: center;
+    background-image:url(https://fondosmil.com/fondo/4025.png) ;
+    border-radius: 10%;
+    font: oblique bold 100%/200% serif;
+}
+
+#Titulo1{
+    text-align: center;
+    background-image:url(https://static.vecteezy.com/system/resources/previews/002/296/768/non_2x/rainbow-paradise-pastel-background-vector.jpg) ;
+    border-radius: 20%;
+    font: oblique bold 100%/200% serif;
+}
+
+#Titulo3{
+    text-align: center;
+    background-image:url(https://static.vecteezy.com/system/resources/previews/002/296/768/non_2x/rainbow-paradise-pastel-background-vector.jpg) ;
+    border-radius: 20%;
+    font: oblique bold 100%/200% serif;
+}
+
+#Imagen1{
+    text-align: center
+}
+
+#Tabla{
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    margin-left: 130pt ;
+    margin-right: 140pt;
+    border-collapse: collapse;
+    
+}
+
+#Boton_1{
+    text-align: center;
+    background-image:url(https://forbes.es/wp-content/uploads/2017/05/2015114121424_1.jpg);
+    background-size: 100%;
+}
+
+#Boton_2{
+    text-align: center;
+    background-image:url(https://forbes.es/wp-content/uploads/2017/05/2015114121424_1.jpg);
+    background-size: 100%;
+}
+
+#Boton_3{
+    text-align: center;
+    background-image:url(https://forbes.es/wp-content/uploads/2017/05/2015114121424_1.jpg);
+    background-size: 100%;
+}
